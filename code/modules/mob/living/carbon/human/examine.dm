@@ -119,11 +119,11 @@
 		if(100 to 200)
 			msg += "<span class='warning'>[t_He] [t_is] twitching ever so slightly.</span>\n"
 
-	if(client && client.prefs)
+	/*if(client && client.prefs) LEWD VERBS - commented out for reference during WIP erp verb removal. pending removal
 		if(client.prefs.wasteland_toggles & VERB_CONSENT)
 			msg += "[t_His] player has allowed lewd verbs.\n"
 		else
-			msg += "[t_His] player has not allowed lewd verbs.\n"
+			msg += "[t_His] player has not allowed lewd verbs.\n"*/
 
 	var/appears_dead = 0
 	if(stat == DEAD || (has_trait(TRAIT_FAKEDEATH)))
