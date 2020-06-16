@@ -5,7 +5,7 @@
 	selection_color = "#ffeeee"
 	exp_type = EXP_TYPE_LEGION
 	forbids = "The Legion forbids: Ghouls joining the Legion. Women in armed roles. Chems and drugs such as jet or alcohol. Reliance on technology. Lethally harming any servants of Caesar without proper reason."
-	enforces = "The Legion expects: Obeying orders of superiors. A roman style name. Wearing the uniform, unless acting as a nonlethal infiltrator."
+	enforces = "The Legion expects: Obeying orders of superiors. A roman style name. Wearing your uniform, unless acting as a nonlethal infiltrator."
 
 /datum/outfit/job/CaesarsLegion
 	id = null
@@ -176,8 +176,8 @@ Orator - lol no just kidding it's a not-so-useless role. :)
 	title = "Legion Libritor"
 	flag = F13LIBRITOR
 	faction = "Legion"
-	total_positions = 2
-	spawn_positions = 2
+	total_positions = 0
+	spawn_positions = 0
 	description = "You are, effectively, the counter to the Bear's 'heavy troopers', as you carry some pretty heavy equipment yourself. A much larger gun, in fact. Don't let down your fellows."
 	supervisors = "the Centurion and Decani"
 
@@ -377,8 +377,8 @@ datum/job/CaesarsLegion/Legionnaire/f13slavemaster
 	title = "Legion Slavemaster"
 	flag = F13SLAVEMASTER
 	faction = "Legion"
-	total_positions = 1
-	spawn_positions = 1
+	total_positions = 0
+	spawn_positions = 0
 	description = "You are the feared and respected disciplinary corps of the Legion. Acting as both master of the Slaves and de-facto executioner of the Centurion's will within his ranks, you are a faceless and undoubtedly cruel torturer... but be careful to not let your hubris and malice lead to a strikeback from those you thought broken."
 	supervisors = "the Decani and Centurion"
 
@@ -473,7 +473,7 @@ Veteran Legionary
 	H.add_quirk("Big Leagues")
 
 /*
-Prime Legionairy
+Prime Legionary
 */
 
 /datum/job/CaesarsLegion/Legionnaire/f13prime
@@ -593,7 +593,7 @@ Explorer
 
 
 	loadout_options = list(
-	/datum/outfit/loadout/explinfil, //C4, engineering supplies
+	/datum/outfit/loadout/explinfil, //Engineering Supplies, 1 Block of C-4, and a .44 Revolver
 	/datum/outfit/loadout/explscout, //.44 trail carbine
 	//datum/outfit/loadout/explassassin //.308 DKS sniper rifle
 	)
