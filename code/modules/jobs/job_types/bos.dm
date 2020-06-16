@@ -402,7 +402,6 @@ Paladin
 	loadout_options = list(
 	/datum/outfit/loadout/paladinb, //Carbine and aep7
 	/datum/outfit/loadout/paladine, //aer9 and n99
-	/datum/outfit/loadout/paladinlasgat //Laser Gatling
 	)
 
 	outfit = /datum/outfit/job/bos/f13paladin
