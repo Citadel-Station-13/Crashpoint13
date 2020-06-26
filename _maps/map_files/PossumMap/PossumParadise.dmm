@@ -3308,7 +3308,7 @@
 "blF" = (/obj/effect/spawner/lootdrop/f13/armor/tier4,/turf/open/indestructible/ground/outside/dirt,/area/f13/underground/mountain)
 "blG" = (/turf/open/indestructible/ground/outside/sidewalk{icon_state = "verticalrightborderright0"; tag = "icon-verticalrightborderright0"},/area/f13/tunnel)
 "blH" = (/turf/open/indestructible/ground/outside/road{icon_state = "verticalleftborderright0"},/area/f13/tunnel)
-"blI" = (/mob/living/simple_animal/hostile/deathclaw/funclaw,/turf/closed/mineral/snowmountain,/area/f13/underground/mountain)
+"blI" = (/mob/living/simple_animal/hostile/deathclaw,/turf/closed/mineral/snowmountain,/area/f13/underground/mountain)
 "blJ" = (/turf/closed/mineral/snowmountain,/area/f13/tunnel)
 "blK" = (/obj/effect/landmark/start/f13/vexillarius,/turf/open/indestructible/ground/inside/subway,/area/f13/tunnel)
 "blL" = (/obj/machinery/light/small{dir = 8; light_color = "#d8b1b1"},/turf/open/indestructible/ground/inside/subway,/area/f13/tunnel)
