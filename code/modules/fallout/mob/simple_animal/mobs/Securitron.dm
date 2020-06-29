@@ -21,7 +21,7 @@
 	health = 300
 	del_on_death = 1
 	healable = 0
-	faction = list("neutral", "city", "ncr")
+	faction = list("neutral", "city", "ncr") // This should be "NCR" but a number of POIs use thse as enemies.
 	emote_hear = list("Beeps.")
 	speak = list("Stop Right There Criminal.")
 	death_sound = 'sound/f13npc/robot_death.ogg'

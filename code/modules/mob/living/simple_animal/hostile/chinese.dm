@@ -39,6 +39,7 @@
 	minimum_distance = 6
 	projectiletype = /obj/item/projectile/bullet/c9mm
 	projectilesound =  'sound/f13weapons/ninemil.ogg'
+	casingtype = /obj/item/ammo_casing/c9mm
 
 /mob/living/simple_animal/hostile/chinese/ranged/assault
 	name = "chinese remnant assault soldier"
@@ -50,6 +51,7 @@
 	loot = list(/obj/effect/mob_spawn/human/corpse/chineseremnant/assault, /obj/item/gun/ballistic/automatic/type93, /obj/item/ammo_box/magazine/m556/rifle/assault)
 	projectiletype = /obj/item/projectile/bullet/a556/ap
 	projectilesound = 'sound/f13weapons/assaultrifle_fire.ogg'
+	casingtype = /obj/item/ammo_casing/a556
 
 /mob/living/simple_animal/hostile/chinese/ranged/assault/Aggro()
 	..()
