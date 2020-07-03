@@ -1,11 +1,23 @@
-## F13 codebase 
+## Crashpoint13
+Based and maintained from TG-Claw, which is from /tg/station.
 
-[![Build Status](https://travis-ci.org/BadDeathclaw/TG-Claw.svg?branch=master)](https://travis-ci.org/BadDeathclaw/TG-Claw) [![Krihelimeter](https://www.krihelinator.xyz/badge/BadDeathclaw/TG-Claw)](http://www.krihelinator.xyz/repositories/BadDeathclaw/TG-Claw) 
+[![Build Status](https://api.travis-ci.org/Citadel-Station-13/Crashpoint13.png)](https://travis-ci.org/Citadel-Station-13/Crashpoint13) 
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/Citadel-Station-13/Crashpoint13.svg)](http://isitmaintained.com/project/Citadel-Station-13/Crashpoint13 "Percentage of issues still open")  
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/Citadel-Station-13/Crashpoint13.svg)](http://isitmaintained.com/project/Citadel-Station-13/Crashpoint13 "Average time to resolve an issue")
 
-[![Percentage of issues still open](https://isitmaintained.com/badge/open/BadDeathclaw/TG-Claw.svg)](https://isitmaintained.com/project/BadDeathclaw/TG-Claw "Percentage of issues still open") [![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/BadDeathclaw/TG-Claw.svg)](https://isitmaintained.com/project/BadDeathclaw/TG-Claw "Average time to resolve an issue")  
 [![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com) [![worksonmymachine](https://img.shields.io/badge/works--on-_my--machine-yellowgreen.svg?longCache=true&style=for-the-badge)](https://shields.io) [![forinfinityandbyond](https://user-images.githubusercontent.com/5211576/29499758-4efff304-85e6-11e7-8267-62919c3688a9.gif)](https://www.reddit.com/r/SS13/comments/5oplxp/what_is_the_main_problem_with_byond_as_an_engine/dclbu1a)
 
-**Discord** https://discord.gg/TCj5cJN
+**Upstream Information**  
+* **Discord:** <https://discord.gg/TCj5cJN>
+* **Code:** <https://github.com/BadDeathclaw/TG-Claw>
+
+**Citadel Station Information**  
+* **Website:** <http://citadel-station.net>
+* **Code:** <https://github.com/Citadel-Station-13/Citadel-Station-13>
+* **Wiki:** <https://citadel-station.net/wiki/index.php?title=Main_Page>
+* **Forums:** <http://citadel-station.net/forum>
+* **Ban Appeals:** <http://citadel-station.net/forum/forumdisplay.php?fid=8>
+* **Discord:**  <https://discord.gg/E6SQuhz>
 
 ## Notes from F13
 
