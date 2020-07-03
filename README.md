@@ -27,16 +27,13 @@ while keeping the code base private - a source code is licensed under /tg/ Stati
 **Please carefully read the following statement**: If you desire to host your own server based of Fallout 13 source code - you may not pretend to be an "Official Fallout 13" community. The only Fallout 13 communities that are considered official at the moment are specified as: [EN] Fallout 13 - Vault One [RU] Fallout 13 - CBET ATOMA ( Light of the Atom ) By our terms and conditions we require any potential host to specify that they are an unofficial server in announcements and the Byond HUB. Stated terms of service fully comply with the original AGPL v3 license of /tg/ Station 13, as long as this applies to the running server of unofficial community.
 
 ## /tg/station codebase
-
-**Github** https://github.com/tgstation/tgstation
-
-**Website:** https://www.tgstation13.org
-
-**Code:** https://github.com/tgstation/tgstation
-
-**Wiki** https://tgstation13.org/wiki/Main_Page
-
-**IRC:** irc://irc.rizon.net/coderbus or if you dont have an IRC client, you can click  [here](https://kiwiirc.com/client/irc.rizon.net:6667/?&theme=cli#coderbus)
+* **Website:** <https://www.tgstation13.org>
+* **Code:** <https://github.com/tgstation/tgstation>
+* **Wiki:** <https://tgstation13.org/wiki/Main_Page>
+* **Codedocs:** <https://codedocs.tgstation13.org>
+* **/tg/station Discord:** <https://tgstation13.org/phpBB/viewforum.php?f=60>
+* **Coderbus Discord:** <https://discord.gg/Vh8TJp9>
+* ~~**IRC:** <irc://irc.rizon.net/coderbus>~~ (dead)  
 
  
 ## DOWNLOADING
