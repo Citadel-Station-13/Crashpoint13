@@ -7,12 +7,6 @@
 #Ignore byond config folder.
 /cfg/**/*
 
-#Ignore some sensitive configs.
-/config/dbconfig.txt
-/config/admins.txt
-/config/comms.txt #shh
-/config/config.txt
-
 #Ignore compiled files and other files generated during compilation.
 *.mdme
 *.dmb
@@ -208,12 +202,9 @@ tools/MapAtmosFixer/MapAtmosFixer/bin/*
 #GitHub Atom
 .atom-build.json
 
-#KDevelop and Kate
-*.kdev4*
-*.kate-swp
+#Jukebox audio files
+/config/jukebox_music/**/*
 
 #extra map stuff
 /_maps/**/backup/
 /_maps/templates.dm
-/config
-config/config.txt
