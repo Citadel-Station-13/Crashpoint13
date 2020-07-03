@@ -1,24 +1,15 @@
-<!-- Thanks for choosing to take the time to contribute to our project! We have a few things below that we'd like you to fill out -->
-<!-- The more detail you can give us, the faster we can code review, test, and merge your changes -->
+<!-- Write **BELOW** The Headers and **ABOVE** The comments else it may not be viewable. -->
+<!-- You can view Contributing.MD for a detailed description of the pull request process. -->
 
-<!--- Provide a general summary of your changes in the Title above -->
+## About The Pull Request
 
-## Description
-<!--- Describe your changes in detail -->
+<!-- Describe The Pull Request. Please be sure every change is documented or this can delay review and even discourage maintainers from merging your PR! -->
 
-## Motivation and Context
-<!--- Why is this change required? What problem does it solve? -->
-<!--- If it fixes an open issue, please link to the issue here. -->
+## Why It's Good For The Game
 
-## How Has This Been Tested?
-<!--- Please describe in detail how you tested your changes. -->
-<!--- This helps us replicate your tests, to speed up review. -->
-<!--- Include details of your testing environment, tests ran to see how -->
-<!--- your change affects other areas of the code, etc. -->
+<!-- Please add a short description of why you think these changes would benefit the game. If you can't justify it in words, it might not be worth adding. -->
 
-## Screenshots (if appropriate):
-
-## Changelog (necessary)
+## Changelog
 :cl:
 add: Added new things
 add: Added more things
@@ -37,3 +28,6 @@ config: changed some config setting
 admin: messed with admin stuff
 server: something server ops should know
 /:cl:
+
+<!-- Both :cl:'s are required for the changelog to work! You can put your name to the right of the first :cl: if you want to overwrite your GitHub username as author ingame. -->
+<!-- You can use multiple of the same prefix (they're only used for the icon ingame) and delete the unneeded ones. Despite some of the tags, changelogs should generally represent how a player might be affected by the changes rather than a summary of the PR's contents. -->
